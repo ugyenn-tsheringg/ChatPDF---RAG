@@ -58,7 +58,8 @@ Key Steps (Detailed View)
    - Backend: Langchain for data processing, OpenAI API for LLM.
    - Frontend: Streamlit for UI, chat interface, and PDF uploads.
 
-
+<br>
+<br>
 <div align="center">
 📄 License
 MIT License. Feel free to adapt for your use case.
