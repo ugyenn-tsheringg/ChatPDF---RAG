@@ -2,7 +2,8 @@
 
 A conversational AI application that allows you to interact with PDF documents using OpenAI's LLM. Built as part of a tutorial project to demonstrate NLP skills, Langchain integration, and Streamlit UI development. Ideal for document analysis, Q&A, and chatbot functionalities.
 
-![Architecture Overview]((https://github.com/ugyenn-tsheringg/ChatPDF-RAG/blob/main/images/abstract_view.png))
+![Architecture Overview]
+(https://github.com/ugyenn-tsheringg/ChatPDF-RAG/blob/main/images/abstract_view.png)
 ![Detailed Workflow]([detailed_view.png](https://github.com/ugyenn-tsheringg/ChatPDF-RAG/blob/main/images/detailed_view.png))
 
 ## 🚀 Features
